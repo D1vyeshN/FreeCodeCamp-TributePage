@@ -1,0 +1,28 @@
+#main{
+  margin:30px 8px;
+  padding:20px;
+  background-color:#eee;
+  border-radis:5px;
+  max-width:70%;
+  
+  
+}
+body{
+  font-family:'Segoe UI',roboto,sans-serif;
+  text-align:center;
+  color:#333;
+  line-height:1.5;
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#image{
+  max-width:100%;
+  height:auto;
+  margin:auto;
+  display:block;
+  
+}
+section ul{
+  text-align:left;
+}
